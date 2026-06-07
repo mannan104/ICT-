@@ -1,2 +1,2 @@
 # ICT-
-Deam Deflection Visualizer
+Beam Deflection Visualizer
